@@ -1,0 +1,34 @@
+﻿<Window x:Class="Webrequest.AddProductWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:local="clr-namespace:Webrequest"
+        Title="Add Product" Height="400" Width="350">
+    <Window.Resources>
+        <local:EnumToCollectionConverter x:Key="EnumConverter"/>
+    </Window.Resources>
+
+    <Grid Margin="10">
+        <StackPanel Margin="10">
+
+            <Label Content="Name:"/>
+            <TextBox x:Name="txtName" Margin="0,0,0,10"/>
+
+            <Label Content="Price:"/>
+            <TextBox x:Name="txtPrice" Margin="0,0,0,10" PreviewTextInput="txtPrice_PreviewTextInput"/>
+
+            <Label Content="Description:"/>
+            <TextBox x:Name="txtDescription" Margin="0,0,0,10"/>
+
+            <Label Content="Product Type:"/>
+            <ComboBox x:Name="cmbProductType"
+                      DisplayMemberPath="Name"
+                      SelectedValuePath="Value"
+                      ItemsSource="{Binding Source={x:Type local:ProductType}, Converter={StaticResource EnumConverter}}"
+                      SelectedIndex="0"
+                      Margin="0,0,0,10"/>
+
+            <Button Content="Save Product" Margin="0,10,0,0" Click="SaveProduct_Click"/>
+
+        </StackPanel>
+    </Grid>
+</Window>
