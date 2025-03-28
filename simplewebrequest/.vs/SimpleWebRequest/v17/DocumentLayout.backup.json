@@ -1,18 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Pete\\Documents\\ROCMN\\c-sharp\\c-sharp-webrequests\\SimpleWebRequest\\",
+  "WorkspaceRootPath": "C:\\Users\\Pete\\Documents\\ROCMN\\c-sharp\\c-sharp-webrequests\\simplewebrequest\\",
   "Documents": [
     {
       "AbsoluteMoniker": "D:0:0:{59F2198F-8A39-45B1-837E-F50FF38D891C}|SimpleWebRequest\\SimpleWebRequest.csproj|c:\\users\\pete\\documents\\rocmn\\c-sharp\\c-sharp-webrequests\\simplewebrequest\\simplewebrequest\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{59F2198F-8A39-45B1-837E-F50FF38D891C}|SimpleWebRequest\\SimpleWebRequest.csproj|solutionrelative:simplewebrequest\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{59F2198F-8A39-45B1-837E-F50FF38D891C}|SimpleWebRequest\\SimpleWebRequest.csproj|c:\\users\\pete\\documents\\rocmn\\c-sharp\\c-sharp-webrequests\\simplewebrequest\\simplewebrequest\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{59F2198F-8A39-45B1-837E-F50FF38D891C}|SimpleWebRequest\\SimpleWebRequest.csproj|solutionrelative:simplewebrequest\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{59F2198F-8A39-45B1-837E-F50FF38D891C}|SimpleWebRequest\\SimpleWebRequest.csproj|C:\\Users\\Pete\\Documents\\ROCMN\\c-sharp\\c-sharp-webrequests\\simplewebrequest\\simplewebrequest\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{59F2198F-8A39-45B1-837E-F50FF38D891C}|SimpleWebRequest\\SimpleWebRequest.csproj|solutionrelative:simplewebrequest\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{59F2198F-8A39-45B1-837E-F50FF38D891C}|SimpleWebRequest\\SimpleWebRequest.csproj|c:\\users\\pete\\documents\\rocmn\\c-sharp\\c-sharp-webrequests\\simplewebrequest\\simplewebrequest\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{59F2198F-8A39-45B1-837E-F50FF38D891C}|SimpleWebRequest\\SimpleWebRequest.csproj|solutionrelative:simplewebrequest\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{59F2198F-8A39-45B1-837E-F50FF38D891C}|SimpleWebRequest\\SimpleWebRequest.csproj|c:\\users\\pete\\documents\\rocmn\\c-sharp\\c-sharp-webrequests\\simplewebrequest\\simplewebrequest\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59F2198F-8A39-45B1-837E-F50FF38D891C}|SimpleWebRequest\\SimpleWebRequest.csproj|solutionrelative:simplewebrequest\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59F2198F-8A39-45B1-837E-F50FF38D891C}|SimpleWebRequest\\SimpleWebRequest.csproj|C:\\Users\\Pete\\Documents\\ROCMN\\c-sharp\\c-sharp-webrequests\\simplewebrequest\\simplewebrequest\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59F2198F-8A39-45B1-837E-F50FF38D891C}|SimpleWebRequest\\SimpleWebRequest.csproj|solutionrelative:simplewebrequest\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,28 +26,41 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Pete\\Documents\\ROCMN\\c-sharp\\c-sharp-webrequests\\simplewebrequest\\SimpleWebRequest\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "SimpleWebRequest\\ApiResponse.cs",
+              "ToolTip": "C:\\Users\\Pete\\Documents\\ROCMN\\c-sharp\\c-sharp-webrequests\\simplewebrequest\\SimpleWebRequest\\ApiResponse.cs",
+              "RelativeToolTip": "SimpleWebRequest\\ApiResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T15:07:44.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\Pete\\Documents\\ROCMN\\c-sharp\\c-sharp-webrequests\\SimpleWebRequest\\SimpleWebRequest\\Product.cs",
+              "DocumentMoniker": "C:\\Users\\Pete\\Documents\\ROCMN\\c-sharp\\c-sharp-webrequests\\simplewebrequest\\SimpleWebRequest\\Product.cs",
               "RelativeDocumentMoniker": "SimpleWebRequest\\Product.cs",
-              "ToolTip": "C:\\Users\\Pete\\Documents\\ROCMN\\c-sharp\\c-sharp-webrequests\\SimpleWebRequest\\SimpleWebRequest\\Product.cs",
+              "ToolTip": "C:\\Users\\Pete\\Documents\\ROCMN\\c-sharp\\c-sharp-webrequests\\simplewebrequest\\SimpleWebRequest\\Product.cs",
               "RelativeToolTip": "SimpleWebRequest\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-27T12:38:58.178Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\Pete\\Documents\\ROCMN\\c-sharp\\c-sharp-webrequests\\SimpleWebRequest\\SimpleWebRequest\\MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Pete\\Documents\\ROCMN\\c-sharp\\c-sharp-webrequests\\simplewebrequest\\SimpleWebRequest\\MainWindow.xaml",
               "RelativeDocumentMoniker": "SimpleWebRequest\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\Pete\\Documents\\ROCMN\\c-sharp\\c-sharp-webrequests\\SimpleWebRequest\\SimpleWebRequest\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Pete\\Documents\\ROCMN\\c-sharp\\c-sharp-webrequests\\simplewebrequest\\SimpleWebRequest\\MainWindow.xaml",
               "RelativeToolTip": "SimpleWebRequest\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-03-27T12:38:42.703Z",
@@ -53,11 +70,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Pete\\Documents\\ROCMN\\c-sharp\\c-sharp-webrequests\\SimpleWebRequest\\SimpleWebRequest\\MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Pete\\Documents\\ROCMN\\c-sharp\\c-sharp-webrequests\\simplewebrequest\\SimpleWebRequest\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "SimpleWebRequest\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\Pete\\Documents\\ROCMN\\c-sharp\\c-sharp-webrequests\\SimpleWebRequest\\SimpleWebRequest\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Pete\\Documents\\ROCMN\\c-sharp\\c-sharp-webrequests\\simplewebrequest\\SimpleWebRequest\\MainWindow.xaml.cs",
               "RelativeToolTip": "SimpleWebRequest\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAACgAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAAGYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-27T12:38:42.671Z",
               "EditorCaption": ""
