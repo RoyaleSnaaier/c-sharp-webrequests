@@ -28,7 +28,9 @@ namespace SimpleWebRequest
         // GET the list of products 
         private async Task<Product> GetProductsAsync(string url)
         {
-            return null;
+            HttpClient client = new HttpClient();
+
+
         }
     }
 }
