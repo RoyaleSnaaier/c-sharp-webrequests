@@ -21,6 +21,8 @@ namespace SimpleWebRequest
         private async void Window_Loaded(object sender, RoutedEventArgs e)
         {
 
+            var product = await GetProductsAsync("https://pmarcelis.mid-ica.nl/products/simpleProduct.php");
+
             // Bind our DataGrid to the product list
             DataContext = product;
         }
@@ -30,7 +32,18 @@ namespace SimpleWebRequest
         {
             HttpClient client = new HttpClient();
 
+            var response = await client.GetAsync(url);
 
+            if (!response.IsSuccessStatusCode)
+            {
+                return null;
+            }
+
+            var json = await response.Content.ReadAsStringAsync();
+
+            var product = JsonConvert.DeserializeObject<Product>(json);
+
+            return product;
         }
     }
 }

@@ -36,9 +36,10 @@
               "RelativeDocumentMoniker": "SimpleWebRequest\\ApiResponse.cs",
               "ToolTip": "C:\\Users\\Pete\\Documents\\ROCMN\\c-sharp\\c-sharp-webrequests\\opdracht-les\\SimpleWebRequest\\ApiResponse.cs",
               "RelativeToolTip": "SimpleWebRequest\\ApiResponse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T15:07:44.886Z"
+              "WhenOpened": "2025-03-28T15:07:44.886Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -72,7 +73,7 @@
               "RelativeDocumentMoniker": "SimpleWebRequest\\MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\Pete\\Documents\\ROCMN\\c-sharp\\c-sharp-webrequests\\opdracht-les\\SimpleWebRequest\\MainWindow.xaml.cs",
               "RelativeToolTip": "SimpleWebRequest\\MainWindow.xaml.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAowEsAAAA8AAAAAAAAAA==",
+              "ViewState": "AgIAADMAAAAAAAAAAADwvz0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-27T12:38:42.671Z",
               "EditorCaption": ""
