@@ -30,20 +30,7 @@ namespace SimpleWebRequest
         // GET the list of products 
         private async Task<Product> GetProductsAsync(string url)
         {
-            HttpClient client = new HttpClient();
-
-            var response = await client.GetAsync(url);
-
-            if (!response.IsSuccessStatusCode)
-            {
-                return null;
-            }
-
-            var json = await response.Content.ReadAsStringAsync();
-
-            var product = JsonConvert.DeserializeObject<Product>(json);
-
-            return product;
+            return null;
         }
     }
 }
