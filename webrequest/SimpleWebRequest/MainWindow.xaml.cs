@@ -20,6 +20,14 @@ namespace SimpleWebRequest
 
         private async void Window_Loaded(object sender, RoutedEventArgs e)
         {
+            //var product = new Product();
+            //    product.Id = 1;
+            //    product.Name = "Product 1";
+            //    product.Price = 10.00m;
+
+            //var json = JsonConvert.SerializeObject(product);
+
+            //var newProduct = JsonConvert.DeserializeObject<Product>(json);
 
             var product = await GetProductsAsync("https://pmarcelis.mid-ica.nl/products/simpleProduct.php");
 
@@ -30,7 +38,15 @@ namespace SimpleWebRequest
         // GET the list of products 
         private async Task<Product> GetProductsAsync(string url)
         {
-            return null;
+            HttpClient client = new HttpClient();
+
+            var response = await client.GetAsync(url);
+
+            var json = response.Content.ReadAsStringAsync
+                ().Result;
+
+            var product = JsonConvert.DeserializeObject<Product>(json);
+            return product;
         }
     }
 }

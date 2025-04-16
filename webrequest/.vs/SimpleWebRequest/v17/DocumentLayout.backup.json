@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Pete\\Documents\\ROCMN\\c-sharp\\c-sharp-webrequests\\webrequest\\",
+  "WorkspaceRootPath": "C:\\Users\\ivanr\\source\\repos\\c-sharp-webrequests\\webrequest\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{59F2198F-8A39-45B1-837E-F50FF38D891C}|SimpleWebRequest\\SimpleWebRequest.csproj|C:\\Users\\Pete\\Documents\\ROCMN\\c-sharp\\c-sharp-webrequests\\webrequest\\simplewebrequest\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{59F2198F-8A39-45B1-837E-F50FF38D891C}|SimpleWebRequest\\SimpleWebRequest.csproj|C:\\Users\\ivanr\\source\\repos\\c-sharp-webrequests\\webrequest\\simplewebrequest\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59F2198F-8A39-45B1-837E-F50FF38D891C}|SimpleWebRequest\\SimpleWebRequest.csproj|solutionrelative:simplewebrequest\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59F2198F-8A39-45B1-837E-F50FF38D891C}|SimpleWebRequest\\SimpleWebRequest.csproj|c:\\users\\ivanr\\source\\repos\\c-sharp-webrequests\\webrequest\\simplewebrequest\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{59F2198F-8A39-45B1-837E-F50FF38D891C}|SimpleWebRequest\\SimpleWebRequest.csproj|solutionrelative:simplewebrequest\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{59F2198F-8A39-45B1-837E-F50FF38D891C}|SimpleWebRequest\\SimpleWebRequest.csproj|C:\\Users\\Pete\\Documents\\ROCMN\\c-sharp\\c-sharp-webrequests\\webrequest\\simplewebrequest\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{59F2198F-8A39-45B1-837E-F50FF38D891C}|SimpleWebRequest\\SimpleWebRequest.csproj|C:\\Users\\ivanr\\source\\repos\\c-sharp-webrequests\\webrequest\\simplewebrequest\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{59F2198F-8A39-45B1-837E-F50FF38D891C}|SimpleWebRequest\\SimpleWebRequest.csproj|solutionrelative:simplewebrequest\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{59F2198F-8A39-45B1-837E-F50FF38D891C}|SimpleWebRequest\\SimpleWebRequest.csproj|c:\\users\\pete\\documents\\rocmn\\c-sharp\\c-sharp-webrequests\\webrequest\\simplewebrequest\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{59F2198F-8A39-45B1-837E-F50FF38D891C}|SimpleWebRequest\\SimpleWebRequest.csproj|solutionrelative:simplewebrequest\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,15 +22,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\Pete\\Documents\\ROCMN\\c-sharp\\c-sharp-webrequests\\webrequest\\SimpleWebRequest\\Product.cs",
+              "DocumentMoniker": "C:\\Users\\ivanr\\source\\repos\\c-sharp-webrequests\\webrequest\\SimpleWebRequest\\Product.cs",
               "RelativeDocumentMoniker": "SimpleWebRequest\\Product.cs",
-              "ToolTip": "C:\\Users\\Pete\\Documents\\ROCMN\\c-sharp\\c-sharp-webrequests\\webrequest\\SimpleWebRequest\\Product.cs",
+              "ToolTip": "C:\\Users\\ivanr\\source\\repos\\c-sharp-webrequests\\webrequest\\SimpleWebRequest\\Product.cs",
               "RelativeToolTip": "SimpleWebRequest\\Product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -39,11 +43,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\Pete\\Documents\\ROCMN\\c-sharp\\c-sharp-webrequests\\webrequest\\SimpleWebRequest\\MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\ivanr\\source\\repos\\c-sharp-webrequests\\webrequest\\SimpleWebRequest\\MainWindow.xaml",
               "RelativeDocumentMoniker": "SimpleWebRequest\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\Pete\\Documents\\ROCMN\\c-sharp\\c-sharp-webrequests\\webrequest\\SimpleWebRequest\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\ivanr\\source\\repos\\c-sharp-webrequests\\webrequest\\SimpleWebRequest\\MainWindow.xaml",
               "RelativeToolTip": "SimpleWebRequest\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-03-27T12:38:42.703Z",
@@ -51,13 +55,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Pete\\Documents\\ROCMN\\c-sharp\\c-sharp-webrequests\\webrequest\\SimpleWebRequest\\MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ivanr\\source\\repos\\c-sharp-webrequests\\webrequest\\SimpleWebRequest\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "SimpleWebRequest\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\Pete\\Documents\\ROCMN\\c-sharp\\c-sharp-webrequests\\webrequest\\SimpleWebRequest\\MainWindow.xaml.cs",
-              "RelativeToolTip": "SimpleWebRequest\\MainWindow.xaml.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAgwBsAAAAJAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\ivanr\\source\\repos\\c-sharp-webrequests\\webrequest\\SimpleWebRequest\\MainWindow.xaml.cs*",
+              "RelativeToolTip": "SimpleWebRequest\\MainWindow.xaml.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-27T12:38:42.671Z",
               "EditorCaption": ""
